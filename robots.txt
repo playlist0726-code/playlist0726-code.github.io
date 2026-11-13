@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://playlist0726-code.github.io/sitemap.xml
